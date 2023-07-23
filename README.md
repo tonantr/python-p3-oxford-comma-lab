@@ -2,7 +2,7 @@
 
 ## Learning Goals
 
-- Convert data types
+- Convert data types.
 - Practice iterating through lists
 - Use various methods to manipulate lists and strings
 
